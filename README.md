@@ -16,13 +16,12 @@ Currently i am looking for my first internship/job as a Java developer.
 
 ## Skills:
 ###### ***Skills i think i have possessed over the years of studying and level of them***
-* Java - good     Gradle - basic
+* Java - good 
 * Python - good
-* C/C++ - good
+* C - good
 * Bash - good
 * SQL - good
 * Git - basic
-* Latex - good 
 * Networking/Routing/Switching - good
 
 ## Certificates:
