@@ -23,6 +23,7 @@ Currently i am looking for my first internship/job as a Java developer.
 * SQL - good
 * Git - basic
 * Latex - good 
+* Networking/Routing/Switching - good
 
 ## Certificates:
 * I have completed a CCNA Routing and Switching: Introduction to Networks ( CCNA 1)
