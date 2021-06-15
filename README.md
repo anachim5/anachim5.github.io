@@ -14,7 +14,8 @@ Currently i am looking for my first internship/job as a Java developer.
 
 **These are the minor programs, I have written to do simple tasks and simulation, plotting, files operations etc. for the classes at the university. Mostly done with Python3 or Bash to complete one task. I do keep them on github if ever need them again**
 
-*[DePlotter](https://github.com/anachim5/DePloter)
+* [DePlotter](https://github.com/anachim5/DePloter)
+
 **Small program to create plots from prepared data. Offers 5 differents types of plots. Avaible in Python3, in future might be avaible in Java**
 ## Skills:
 
