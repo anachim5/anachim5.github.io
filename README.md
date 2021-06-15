@@ -14,20 +14,22 @@ Currently i am looking for my first internship/job as a Java developer.
 
 **These are the minor programs, I have written to do simple tasks and simulation, plotting, files operations etc. for the classes at the university. Mostly done with Python3 or Bash to complete one task. I do keep them on github if ever need them again**
 
+*[DePlotter](https://github.com/anachim5/DePloter)
+**Small program to create plots from prepared data. Offers 5 differents types of plots. Avaible in Python3, in future might be avaible in Java**
 ## Skills:
+
 ###### ***Skills i think i have possessed over the years of studying and level of them***
 * Java - good 
 * Python - good
-* C - good
 * Bash - good
 * SQL - good
+* C - basic
 * Git - basic
 * Networking/Routing/Switching - good
 
 ## Certificates:
 * I have completed a CCNA Routing and Switching: Introduction to Networks ( CCNA 1)
 * I am currently in the process of getting CCNA 2.
-* Driving license XD
 
 ## About me
 As far as i can recall i liked reading books and learning about the history of the world. Nowadays I think I mostly read "Fantasy". I am a huge fan of a modern technology and day by day I browse through news, videos and articles covering that. I like basketball and recently I got interested in powerlifting.
